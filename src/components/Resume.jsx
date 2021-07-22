@@ -7,7 +7,7 @@ function Resume() {
   return (
     <div className="resume">
       <div class="container">
-        <a href="../images/JohnStubyResume.pdf" download>John Stuby Resume</a> <br></br>
+        <a href="../images/JohnStubyResume.pdf" download>Download John Stuby Resume PDF</a> <br></br>
 
         <span>
           John Stuby <br></br>
@@ -125,7 +125,7 @@ function Resume() {
 
       <h5>
         <Link to={{ pathname: "https://www.istockphoto.com/" }} target="_blank" >
-        <b>Istock Photography</b>
+          <b>Istock Photography</b>
         </Link> <br></br>
       </h5>
       <h5>Full Stack Developer</h5>
@@ -153,8 +153,8 @@ function Resume() {
           Information Technology - Software Development
 
       </p>
-      <a style={{paddingBottom: 10}} href="../images/JohnStubyResume.pdf" download>John Stuby Resume</a> 
-      <p class="footer-padding"></p>
+      <a href="../images/JohnStubyResume.pdf" download>Download John Stuby Resume PDF</a> 
+      <p class="download-link"></p> <br></br>
     </div>
     </div>
   );

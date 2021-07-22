@@ -15,8 +15,14 @@ function Home() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
-            <p>
-              My name is John Stuby. I live in Calgary Alberta, next to the beautiful Rocky Mountains
+            <p class="text-left">
+              My name is John Stuby. I live in Calgary Alberta. Currently looking for work as a full stack developer. <br></br><br></br>
+
+              Some of my top languages include Ruby, Angularjs and React <br></br><br></br>
+
+              Some of my other interests include: hiking, biking, climbing, backpacking, travelling, live music and cinema. <br></br>
+
+
             </p>
           </div>
         </div>

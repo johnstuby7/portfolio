@@ -16,7 +16,7 @@ function Contact() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Contact</h1>
             <p> <b>Email:</b> Johnstuby7@gmail.com</p> 
-            <a  class="font-weight-light" href="https://github.com/johnstuby7" target="_blank">Github </a><br></br>
+            <a href="https://github.com/johnstuby7" target="_blank">Github </a><br></br>
             <a href="https://www.linkedin.com/in/john-stuby-886a5749" target="_blank">LinkedIn </a><br></br>
             
           </div>
