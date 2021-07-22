@@ -38,6 +38,10 @@
   
 } 
 
+.footer-padding {
+  padding: 22px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
