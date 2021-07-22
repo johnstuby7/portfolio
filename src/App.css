@@ -35,9 +35,11 @@
 .float-child {
   width: 50%;
   float: left;
-  
 } 
 
+.text-left {
+  text-align: left;
+}
 .footer-padding {
   padding: 22px;
 }
