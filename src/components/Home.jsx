@@ -1,5 +1,5 @@
 import React from "react";
-import test from "../images/test.jpg"
+import test from "../images/John_Stuby.jpg"
 
 function Home() {
   return (
@@ -8,6 +8,8 @@ function Home() {
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
             <img
+            height="250"
+            width="250"
               class="img-fluid rounded mb-4 mb-lg-0"
               src={test}
               alt=""
@@ -15,7 +17,7 @@ function Home() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
-            <p class="text-left">
+            <p class="text-left text-color">
               My name is John Stuby. I live in Calgary Alberta. Currently looking for work as a full stack developer. <br></br><br></br>
 
               Some of my top languages include Ruby, Angularjs and React <br></br><br></br>

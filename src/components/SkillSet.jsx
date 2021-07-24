@@ -9,7 +9,7 @@ function SkillSet() {
           <p>
             <b>Languages</b>
           </p>
-          <p style={{color: 'teal'}} > 
+          <p class="text-color"> 
             JavaScript / NPM / NodeJS  <br></br>
             AngulaJS 1&2 <br></br>
             React / Vue.js <br></br>
@@ -22,12 +22,12 @@ function SkillSet() {
           <p>
             <b>Additional Skills</b>
           </p>
-          <p style={{color: 'teal'}}>
-            Git / SVN <br></br>
-            RSPEC / Protractor / Jasmine <br></br>
-            Agile / Sprint <br></br>
+          <p class="text-color">
+            Git / SVN / Heroku <br></br>
+            RSPEC / Protractor / Jasmine / Cucumber <br></br>
+            Agile / Sprint  <br></br>
             Project Management <br></br>
-            Linux / WSL2 / Windows <br></br>
+            Linux / WSL2 / Windows / Mac <br></br>
             AWS <br></br>
             GIS 
           </p>

@@ -7,7 +7,7 @@ function Resume() {
   return (
     <div className="resume">
       <div class="container">
-        <a href="../images/JohnStubyResume.pdf" download>Download John Stuby Resume PDF</a> <br></br>
+        <a class="contact-links contact-links:hover" href="../images/JohnStubyResume.pdf" download>Download John Stuby Resume PDF</a> <br></br>
 
         <span>
           John Stuby <br></br>
@@ -24,7 +24,7 @@ function Resume() {
         </p> <br></br>
 
         <h3>Skills</h3>
-        <div class="row align-items-center my-5">
+        <div class="row align-items-center">
           <div class="col-lg-7">
           <p>
             <b>Languages</b>
@@ -52,15 +52,13 @@ function Resume() {
             GIS 
           </p>
         </div>
-      </div>
+      </div> <br></br>
 
 
       <h3>Experience</h3>
-      <h4>
-        <Link to={{ pathname: "https://hiregroundsoftware.com/" }} target="_blank" >
-          HireGround Software
-        </Link> <br></br>
-      </h4>
+      <h5>
+        <b>HireGround Software</b>
+      </h5>
       <span>
         <h5>Full Stack Developer/ QA Lead</h5>
         <b>October 20, 2019 - November 1, 2020</b> <br></br><br></br>
@@ -124,9 +122,7 @@ function Resume() {
       </p> <br></br>
 
       <h5>
-        <Link to={{ pathname: "https://www.istockphoto.com/" }} target="_blank" >
-          <b>Istock Photography</b>
-        </Link> <br></br>
+        <b>Istock Photography</b>
       </h5>
       <h5>Full Stack Developer</h5>
       <b>October First, 2012 - August 1, 2015 </b><br></br> <br></br>
@@ -153,8 +149,8 @@ function Resume() {
           Information Technology - Software Development
 
       </p>
-      <a href="../images/JohnStubyResume.pdf" download>Download John Stuby Resume PDF</a> 
-      <p class="download-link"></p> <br></br>
+      <a class="contact-links contact-links:hover" href="../images/JohnStubyResume.pdf" download>Download John Stuby Resume PDF</a> 
+      <p class="download-link"></p> 
     </div>
     </div>
   );

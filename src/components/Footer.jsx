@@ -8,16 +8,16 @@ function Footer() {
   return (
     <div className="footer">
       <footer class="footer-padding bg-dark fixed-bottom">
-        <h3> Previous Employers</h3>
+        <h3 class="previous-employee"> Previous Employers</h3>
         <div class="float-container">
           <div class="float-child">
             <Link to={{ pathname: "https://hiregroundsoftware.com/" }} target="_blank" >
               HireGround Software
             </Link>
           </div>
-          <div class="float-child">
+          <div class="float-child ">
             <Link to={{ pathname: "https://www.istockphoto.com/" }} target="_blank" >
-              <b>Istock Photography</b>
+              <b class="nav-item"> Istock Photography</b>
             </Link>
           </div>
         </div>

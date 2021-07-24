@@ -45,21 +45,34 @@
   padding: 22px;
 }
 
-.link-color {
-  color: black;
+.download-link {
+  padding-bottom: 120px;
 }
 
-.download-link {
-  padding-bottom: 100px;
+.previous-employee {
+  color: white;
+}
+
+.text-color {
+  color: teal;
 }
 
 a {
-  color: black;
+  color: #919793;
   transition: background-color .5s;
 }
 
 a:hover {
-  color: chartreuse;
+  color: white;
+}
+
+.contact-links {
+  color: black;
+  transition: background-color .5s;
+}
+
+.contact-links:hover {
+  color: blue;
 }
 
 @keyframes App-logo-spin {
