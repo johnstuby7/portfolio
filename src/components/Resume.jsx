@@ -64,16 +64,18 @@ function Resume() {
         <b>October 20, 2019 - November 1, 2020</b> <br></br><br></br>
 
         <p class="text-left">
-          - Implemented changes to QA to improve coverage <br></br>
+          - Implemented changes to QA to Increase coverage <br></br>
           &nbsp;&nbsp; - Maintained RSPEC Test suite <br></br>
           &nbsp;&nbsp; - Maintained Protractor test suite <br></br>
+          &nbsp;&nbsp; - Maintained document providing various test cases to be aware for hireground <br></br>
+          &nbsp;&nbsp; - Performed code reviews to ensure code standards are being met <br></br>
           - Implemented changes to code standards site wide <br></br>
           &nbsp;&nbsp; - Managed translations for English/French/Spanish sitewide <br></br>
           &nbsp;&nbsp; - Ensured that specific versions of Chrome/Firefox and Edge worked correctly with application <br></br>
           &nbsp;&nbsp; - Ensured that sites were mobile-friendly <br></br>
-          - Performed bug fixes and code reviews <br></br>
-          - Helped schedule release of new features <br></br>
-          - Created documentation for new project features <br></br>
+          - Performed bug fixes as needed <br></br>
+          - Helped schedule release of new features using AWS on most fridays <br></br>
+          - Created documentation for any complex features that would require it <br></br>
           - Released new client websites <br></br>
           - Created new features: <br></br>
           &nbsp;&nbsp; - Archive/unarchive functionality for job postings, email templates, rejection reasons and other sections of the site. <br></br>
@@ -95,10 +97,10 @@ function Resume() {
       
       <b> October 21, 2018 - October 20, 2019</b> <br></br><br></br>
       <p class="text-left">
-        - Worked in unison with business to decide on future work and current priorities <br></br>
-        - Managed teams workflow <br></br>
+        - Worked in unison with the Product Owner, Marketing and the CEO to decide on future work and current priorities <br></br>
+        - Managed team of eights workflow using scrum and agile methodology <br></br>
         - Managed the interview/hiring process for junior employees <br></br>
-        - Came up with Procedure for onboarding new hires <br></br>
+        - Developed Procedure for onboarding new hires <br></br>
         - Implemented New Suite of tools that handled site settings, including: <br></br>
         &nbsp;&nbsp; - Created Job posting options feature. This feature allowed users to set predefined options for specific fields for future job listings. <br></br>
         &nbsp;&nbsp; - Improved Company details feature to allow the use of multiple logos and listing of more company details <br></br>
@@ -107,8 +109,8 @@ function Resume() {
         &nbsp;&nbsp; - Improved internal job list functionality <br></br>
         &nbsp;&nbsp; - Improved inline and submit based error messaging sitewide <br></br>
         - Produced documentation for various tasks <br></br>
-        - Implemented the design and release of new client websites <br></br>
-        - Organized sprints <br></br>
+        - Implemented the design and release of 15+ new client websites  <br></br>
+        - Organized sprints  <br></br>
         - Worked with machine learning team to implement search features for jobs and applicants <br></br>
 
       </p> <br></br>
